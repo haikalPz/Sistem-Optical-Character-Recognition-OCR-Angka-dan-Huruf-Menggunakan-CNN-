@@ -1,0 +1,2 @@
+# Sistem-Optical-Character-Recognition-OCR-Angka-dan-Huruf-Menggunakan-CNN-
+Sistem Optical Character Recognition (OCR) untuk mengenali angka dan huruf tulisan tangan menggunakan Convolutional Neural Network (CNN) berbasis TensorFlow/Keras. Dataset yang digunakan adalah EMNIST Balanced dengan tahapan preprocessing citra, training, dan prediksi karakter. Proyek ini dikembangkan oleh untuk tugas perkuliahan.
