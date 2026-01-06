@@ -1,0 +1,16 @@
+PCD2/
+│
+├── train_cnn_ocr.py          # Training CNN angka & huruf
+├── train_digit_cnn.py        # Training CNN khusus angka
+├── predict_ocr.py            # Prediksi OCR huruf & angka
+├── predict_digit.py          # Prediksi khusus angka
+├── model_ocr.h5              # Model CNN OCR (angka + huruf)
+├── model_digit_cnn.h5        # Model CNN khusus angka
+├── emnist-balanced-train.csv
+├── emnist-balanced-test.csv
+└── test_image/
+
+UNTUK DATASET SAYA MENGGUNAKAN EMNIST (Extended MNIST) Dataset
+
+Dataset EMNIST merupakan pengembangan dari dataset MNIST yang mencakup angka (0–9) dan huruf (A–Z serta beberapa huruf kecil). Dataset ini banyak digunakan dalam penelitian Optical Character Recognition (OCR) dan Deep Learning.
+Berikut Link dataset nya : https://www.kaggle.com/datasets/crawford/emnist
